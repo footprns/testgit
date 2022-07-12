@@ -6,10 +6,10 @@
 #
 asgiref==3.5.2
     # via django
-# django==4.0.6
+django==4.0.6
     # via -r requirements.in
 sqlparse==0.4.2
     # via django
 
 # vulnerable version
-django==3.2.14
+# django==3.2.14
