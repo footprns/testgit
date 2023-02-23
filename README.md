@@ -1,2 +1,2 @@
 This is initial code
-This is feature1
+This is feature2
