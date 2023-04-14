@@ -1,2 +1,2 @@
 This is initial code
-This is merge commit
+This is squash and merge
