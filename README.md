@@ -1,2 +1,2 @@
 This is initial code
-This is the "wild change"
+This is squash and merge
